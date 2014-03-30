@@ -35,6 +35,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 gem 'simple_form'
+gem 'carrierwave'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
